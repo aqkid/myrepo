@@ -1,7 +1,2 @@
 testgit_1
-<<<<<<< Updated upstream
 add test123
-=======
-hello world
-5
->>>>>>> Stashed changes
